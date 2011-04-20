@@ -1,0 +1,13 @@
+#OS specific stuff
+.DS_Store
+.dropbox
+Icon*
+#Latex specific stuff
+*.log
+*.aux
+*.toc
+*.synctex.*
+*.nav
+#
+#*.pdf
+#
